@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+![News24](https://raw.githubusercontent.com/kuntal811/downtime-alert/master/screenshots/monitor.png?token=AIR73OFZVGLMNSILTQ7UC33BYXWF4)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Downtime Alert
 
-## Available Scripts
+*Downtime Alert* is a web application to monitor your website’s downtime. Downtime Alert will help you to keep monitoring your website status and inform you immediately if your website goes down. It is also important to keep user's trust by making your website secure using SSL. Downtime Alert will help you by informing you before your SSL and domain get expired so that you can focus on your work.
 
-In the project directory, you can run:
+## Website 
+  🌐 Downtime Alert - [https://downtime-alert.web.app](https://downtime-alert.web.app)
+## Technology Used
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat-square&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=Codeigniter&logoColor=DD4814)
 
-### `yarn start`
+## UI Design
+![Figma](https://img.shields.io/badge/-Figma-000?style=flat-square&logo=Figma) ![See design in figma](https://www.figma.com/file/LJBzSDbhbecIwbQxpxJodz/Downtime-Alert)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Installation
+In the root project directory run this command
+```
+yarn install
+```
+Run this in the project_root/api
+```
+composer install
+```
+## Usage
+```
+yarn start
+```
+* **Feel free to fork it😄.**<br /><br />
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+## License
+Downtime Alert is [MIT licensed](./LICENSE).
