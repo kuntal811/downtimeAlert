@@ -210,7 +210,7 @@ export default class DomainContent extends Component {
         
                     <div className="row">
                         {
-                            monitors.map((monitor,index)=>{
+                            monitors?.map((monitor,index)=>{
                                 return <DomainMonitorCard
                                         id  = {monitor.domain_id}
                                         url = {monitor.url}

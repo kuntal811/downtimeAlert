@@ -212,7 +212,7 @@ export default class SslContent extends Component {
         
                     <div className="row">
                         {
-                            monitors.map((monitor,index)=>{
+                            monitors?.map((monitor,index)=>{
                                 
                                 let start_t = null;
                                 let exp_t = null;
