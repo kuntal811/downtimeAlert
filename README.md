@@ -1,4 +1,4 @@
-![News24](https://raw.githubusercontent.com/kuntal811/downtime-alert/master/screenshots/monitor.png?token=AIR73OFZVGLMNSILTQ7UC33BYXWF4)
+![Downtime Alert](https://raw.githubusercontent.com/kuntal811/downtime-alert/master/screenshots/monitor.png?token=AIR73OFZVGLMNSILTQ7UC33BYXWF4)
 
 # Downtime Alert
 
