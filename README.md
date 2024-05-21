@@ -12,7 +12,7 @@
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=Codeigniter&logoColor=DD4814)
 
 ## UI Design
-![Figma](https://img.shields.io/badge/-Figma-000?style=flat-square&logo=Figma) ![See design in figma](https://www.figma.com/file/LJBzSDbhbecIwbQxpxJodz/Downtime-Alert)
+![Figma](https://img.shields.io/badge/-Figma-000?style=flat-square&logo=Figma) [See design in figma](https://www.figma.com/file/LJBzSDbhbecIwbQxpxJodz/Downtime-Alert)
 
 ## Installation
 In the root project directory run this command
